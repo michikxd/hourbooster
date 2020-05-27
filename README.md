@@ -1,7 +1,8 @@
 ### Features
 - Boost Steam Hours
 - 2FA Support 
-- Custom Game Avaible 
+- Custom Title Avaible 
+- Custom Games
 - Custom Auto Message 
 
 ### How to install NodeJS (Required)
