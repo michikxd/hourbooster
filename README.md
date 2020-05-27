@@ -25,3 +25,12 @@ clear &&
 Installation has been succesfull.
 ```
 For VPS use, put `screen -S bot` to the terminal for open screen session with name bot. Then edit `config.json` then put the `node bot.js ;` to the terminal and bot has been succesfully started (if you get any error it will probably be because of password or bad nodejs version) if you want go on the main screen press `ctrlv + a + d` and then for rejoin to the screen use just `screen -r bot`.
+
+### Repositories and sites for learn more.
+- [Steam user](https://www.npmjs.com/package/steam-user)
+- [Steam friends](https://github.com/seishun/node-steam/tree/master/lib/handlers/friends)
+- [Steam community](https://github.com/DoctorMcKay/node-steamcommunity/wiki/SteamCommunity)
+- [Steam trading](https://github.com/seishun/node-steam/tree/master/lib/handlers/trading)
+- [Tradeoffer manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager/wiki/TradeOfferManager)
+- [Steam id](https://www.npmjs.com/package/steamid)
+
