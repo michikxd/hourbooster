@@ -11,7 +11,7 @@
 
 ### Windows Setup
 - Open file `install.bat` wait until it install and then close it.
-- Edit the `config.json` in text editor and fill the username and password (if you want fill the automessage too).
+- Edit the `config.json` in text editor and fill the username and password (if you want automessage fill it too).
 - Then just turn on `start.bat`.
 
 ### Linux Setup
