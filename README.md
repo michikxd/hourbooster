@@ -26,6 +26,9 @@ Installation has been succesfull.
 ```
 For VPS use, put `screen -S bot` to the terminal for open screen session with name bot. Then edit `config.json` then put the `node bot.js ;` to the terminal and bot has been succesfully started (if you get any error it will probably be because of password or bad nodejs version) if you want go on the main screen press `ctrlv + a + d` and then for rejoin to the screen use just `screen -r bot`.
 
+### Plans
+Im working on web with login system, where you can add your steam and controll the bot, games, automessage and all, so you will not have to connect to the server and turn it because you can do it by site. After i'll done it gonna add it to the new repository.
+
 ### Repositories and sites for learn more.
 - [Steam user](https://www.npmjs.com/package/steam-user)
 - [Steam friends](https://github.com/seishun/node-steam/tree/master/lib/handlers/friends)
