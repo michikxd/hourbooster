@@ -1,5 +1,5 @@
 {
-    "username":"",
-    "password":"",
-    "automessage":""
+    "username":"username here",
+    "password":"password here",
+    "automessage":"leave blank for turn off"
 }
