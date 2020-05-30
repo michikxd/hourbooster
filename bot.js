@@ -10,7 +10,7 @@ const logOnOptions = {
 client.logOn(logOnOptions);
 
 client.on("loggedOn", () => {
-    console.log(config.username,"You has been loged succesfully.");
+    console.log(config.username,"You has been logged succesfully.");
 
     client.setPersona(SteamUser.EPersonaState.Online);
     client.gamesPlayed(["Custom Game Title",730]);  //730 is id of the game on the steam (730=csgo)
