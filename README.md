@@ -4,6 +4,7 @@
 - Custom Title Avaible 
 - Custom Games
 - Custom Auto Message 
+- Without need Shared Secret
 
 ### How to install NodeJS (Required)
 - For Windows installation look at [here.](https://nodejs.org/en/download/)
