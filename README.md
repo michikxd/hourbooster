@@ -16,6 +16,6 @@
 - Then just turn on `start.bat`.
 
 ### Repositories and sites for learn more.
-[Steam user](https://www.npmjs.com/package/steam-user) | [Steam friends](https://github.com/seishun/node-steam/tree/master/lib/handlers/friends) | [Steam community](https://github.com/DoctorMcKay/node-steamcommunity/wiki/SteamCommunity) | [Steam trading](https://github.com/seishun/node-steam/tree/master/lib/handlers/trading) | [Tradeoffer manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager/wiki/TradeOfferManager)
-[Steam id](https://www.npmjs.com/package/steamid)
+[Steam User](https://www.npmjs.com/package/steam-user) | [Steam Friends](https://github.com/seishun/node-steam/tree/master/lib/handlers/friends) | [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity/wiki/SteamCommunity) | [Steam Trading](https://github.com/seishun/node-steam/tree/master/lib/handlers/trading) | [Tradeoffer Manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager/wiki/TradeOfferManager)
+[Steam ID](https://www.npmjs.com/package/steamid)
 
