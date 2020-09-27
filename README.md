@@ -1,9 +1,8 @@
 ### Features
 - Boost Steam Hours
 - 2FA Support (Without Shared Secret)
-- Custom Title Avaible 
+- Custom In-Game Title 
 - Custom Games
-- Custom Auto Message 
 
 ### How to install NodeJS (Required)
 - For Windows installation look at [here.](https://nodejs.org/en/download/)
