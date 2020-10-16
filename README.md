@@ -14,7 +14,7 @@
 - Then just turn on `start.bat`.
 
 ### Linux Guide
-[Linux Guide Here](https://github.com/michikxd/hourbooster/blob/master/ReadMeLinux)
+- [Linux Guide Here](https://github.com/michikxd/hourbooster/blob/master/ReadMeLinux)
 
 ### Repositories and sites for learn more.
 [Steam User](https://www.npmjs.com/package/steam-user) | [Steam Friends](https://github.com/seishun/node-steam/tree/master/lib/handlers/friends) | [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity/wiki/SteamCommunity) | [Steam Trading](https://github.com/seishun/node-steam/tree/master/lib/handlers/trading) | [Tradeoffer Manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager/wiki/TradeOfferManager) | [Steam ID](https://www.npmjs.com/package/steamid)
