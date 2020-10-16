@@ -1,0 +1,20 @@
+### How to install NodeJS (Required)
+- `sudo apt-get install nodejs`
+- `sudo apt-get install npm`
+
+### How to use Screen
+- Screen or GNU Screen is a terminal multiplexer. In other words, it means that you can start a screen session and then open any number of windows (virtual terminals) inside that session. Processes running in Screen will continue to run when their window is not visible even if you get disconnected.
+Install Linux GNU Screen.
+
+- Install `apt-get install screen`.
+
+- Creating a session `screen -S session_name`.
+- List of sessions `screen -ls`.
+- Detach from currently used session `ctrl + a + d`.
+- Retach screen `screen -r session_number`.
+
+### So how?
+- Be sure that you have installed nodejs and npm.
+- Then just make a new screen.
+- Use `node bot.js` for start.
+- Then detach from session and everything will work 24/7.
