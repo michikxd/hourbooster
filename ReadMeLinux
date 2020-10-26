@@ -14,7 +14,7 @@ Install Linux GNU Screen.
 - Retach screen `screen -r session_number`.
 
 ### So how?
-- Be sure that you have installed nodejs and npm.
+- Be sure that you have installed nodejs and npm and modules.
 - Then just make a new screen.
 - Use `node bot.js` for start.
 - Then detach from session and everything will work 24/7.
