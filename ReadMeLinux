@@ -10,7 +10,7 @@ Install Linux GNU Screen.
 
 - Creating a session `screen -S session_name`.
 - List of sessions `screen -ls`.
-- Detach from currently used session `ctrl + a + d`.
+- Detach from currently used session `CTLR + A + D`.
 - Retach screen `screen -r session_number`.
 
 ### So how?
