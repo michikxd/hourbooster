@@ -9,7 +9,7 @@
 - For Linux look at this [repository.](https://github.com/nvm-sh/nvm)
 
 ### Windows Setup
-- Open file `install.bat` wait until it install and then close it.
+- Open file `install.bat` wait until it install and close it.
 - Edit the `config.json` in text editor and fill the username and password (if you want automessage fill it too). (in bot.js you can edit your custom in-game title)
 - Then just turn on `start.bat`.
 
