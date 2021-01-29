@@ -1,6 +1,8 @@
 ### How to install NodeJS (Required)
+- `sudo apt-get update`
+- `sudo apt-get upgrade`
+- `curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash`
 - `sudo apt-get install nodejs`
-- `sudo apt-get install npm`
 
 ### How to use Screen
 - Screen or GNU Screen is a terminal multiplexer. In other words, it means that you can start a screen session and then open any number of windows (virtual terminals) inside that session. Processes running in Screen will continue to run when their window is not visible even if you get disconnected.
