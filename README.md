@@ -6,7 +6,7 @@
 
 ### How to install NodeJS (Required)
 - For Windows installation look at [here.](https://nodejs.org/en/download/)
-- For Linux look at this [repository.](https://github.com/nvm-sh/nvm)
+- For Linux look at [this.](https://www.geeksforgeeks.org/installation-of-node-js-on-linux/)
 
 ### Windows Setup
 - Open file `install.bat` wait until it install and close it.
