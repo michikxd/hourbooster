@@ -1,5 +1,5 @@
 ## Introduction
-Script made in JavaScript to iddle in-game hours on Steam. Recommended to people who has server (most likely VPS) where they can boost 24/7 without paying any fee for scripts.
+Script made in JavaScript to iddle in-game hours on Steam. Recommended to people who has server to boost on, for example VPS so you can boost 24/7 without paying any aditional fee for script/service provider.
 
 ## Features
 - Steam Guard Support (No Shared Secret Required)
