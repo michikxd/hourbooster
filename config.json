@@ -1,4 +1,24 @@
 {
-    "username":"username here",
-    "password":"password here"
+    "accounts": {
+        "1": {
+            "details": {
+                "username": "Username here",
+                "password": "Password here"
+            },
+            "settings": {
+                "title": [ "Custom title here" ],
+                "games": [ 730, 440 ]
+            }  
+        },
+        "2": {
+            "details": {
+                "username": "Username here",
+                "password": "Password here"
+            },
+            "settings": {
+                "title": [ "Custom title here" ],
+                "games": [ 730, 440 ]
+            }   
+        }
+    }
 }

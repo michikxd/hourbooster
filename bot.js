@@ -1,21 +1,39 @@
+// Imports
 const SteamUser = require("steam-user");
+
+// Config
 const config = require("./config.json");
-const client = new SteamUser();
 
-const logOnOptions = {
-    accountName: config.username,
-    password: config.password
-};
+for (const account in config.accounts) {
+    const username = config.accounts[account].details.username;
+    const password = config.accounts[account].details.password;
 
-client.logOn(logOnOptions);
+    const title = config.accounts[account].settings.title;
+    const games = config.accounts[account].settings.games;
 
-client.on("loggedOn", () => {
-    console.log(config.username,"You has been logged succesfully.");
+    // Authorization
+    const client = new SteamUser();
 
-    client.setPersona(SteamUser.EPersonaState.Online);
-    client.gamesPlayed(["Custom Game Title",730,440]);  
-    // 730 is ID of the Game on the Steam
-    // Ex 730 = CS:GO
-    // You can iddle up to 32 games
-});
+    client.logOn({
+        accountName: username,
+        password: password
+    });
 
+    // Main
+    client.on("loggedOn", async () => {
+        await Array.prototype.push.apply(
+            title, 
+            games
+        );
+
+        await client.setPersona(
+            SteamUser.EPersonaState.Online
+        ); 
+
+        await client.gamesPlayed(
+            title
+        ); 
+        
+        console.log(`Logged succesfully as ${username}.`);
+    });
+}
